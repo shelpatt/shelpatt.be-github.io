@@ -1,0 +1,590 @@
+
+    
+    .cube {
+        width: 100%;
+        height: 400px;
+    }
+    
+    .head {background-color:#ffcccc;
+        height: 350px;
+        background-size: 1850px;
+        background-attachment: fixed;
+      
+    }
+    
+    .onderwerp {
+        background-color: lightskyblue;
+        width: 100%;
+        height: 35px;
+    }
+    
+    .ad1 {
+        background-color: pink;
+        width: 50%;
+        height: 400px;
+        margin: 0 auto;
+    }
+    
+    .home2 {
+        margin-top: 5px;
+    }
+    
+    .truck {
+        margin-bottom: 150px;
+        margin-left: 10%;
+    }
+    
+    .videobox {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        padding-bottom: 56.25%;
+    }
+    
+    .video {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+    
+    .inleiding {
+        margin-top: 0px;
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+    
+    .uitn {
+        width: 100%;
+        height: 200px;
+        margin-top: 150px;
+        padding-top: 55px;
+    }
+    
+    .uitn1 {
+        width: 100%;
+        height: 200px;
+        margin-top: 100px;
+        padding-top: 55px;
+    }
+    
+    .footer {
+        width: 100%;
+        background-color: lightblue;
+        margin-top: 250px;
+    }
+    
+    .footer2 {
+        width: 100%;
+        background-color: lightblue;
+        margin-top: 0px;
+    }
+    
+    .home3 {
+        margin-top: 150px;
+    }
+    
+    .home4 {
+        margin-bottom: 35px;
+        margin-top: 150px;
+    }
+    
+    .song {
+        margin-top: 150px;
+    }
+    
+    .foot1 {
+        margin-top: 95px;
+    }
+    
+    .planning {
+        margin: 0 auto;
+        margin-top: 45px;
+    }
+    
+    .foot2 {
+        margin-bottom: 35px;
+        margin-left: 25px;
+        margin-right: 25px;
+    }
+    
+    .mp {
+        margin-bottom: 35px;
+    }
+    
+    .bgcol {
+        background-color: lightblue;
+        height: 320px;
+    }
+    
+    .bgcol5 {
+        background-color: lightblue;
+        height: 880px;
+    }
+    
+    .bgcol1 {
+        background-color: #ffff99;
+        height: 350px;
+    }
+    
+    .bgcol3 {
+        height: 438x;
+        background-color: lightblue
+    }
+    
+    .bgcol11 {
+        background-color: #ffff99;
+        height: 850px;
+    }
+    
+    .btncl {
+        margin: 0 auto;
+        width: 150px;
+        margin-top: 50px;
+    }
+    
+    .btn2 {
+        border-radius: 30px;
+        background-color: lightblue;
+        border: none;
+        padding: 12px 30px 12px 30px;
+        font-weight: bold;
+        font-size: 18pt;
+    }
+    
+    .btn3 {
+        border-radius: 30px;
+        background-color: lightblue;
+        border: none;
+        padding: 12px 30px 12px 30px;
+        font-weight: bold;
+        font-size: 18pt;
+    }
+    
+    .h1ce {
+        text-align: center;
+        padding: 35px;
+        color: #ffb3b3;
+        font-size: 25pt;
+    }
+    
+    .h1ce1 {
+        text-align: center;
+        padding: 35px;
+        color: #ff6699;
+        font-size: 25pt;
+        margin-top: -30px;
+    }
+    
+    th {
+        font-family: 'Asap', sans-serif;
+        letter-spacing: 3px;
+        font-size: 11pt;
+        color: #ff6699;
+    }
+    
+    td {
+        font-family: 'Roboto', sans-serif;
+        color: #006699;
+        font-size: 11pt;
+    }
+    
+    .navbar {
+        background-color: #ffcccc;
+        font-family: 'Roboto', sans-serif;
+        font-size: 14pt;
+        padding-bottom: 35px;
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 9999;
+        width: 100%;
+    }
+    
+    th:hover {
+        color: #ffcccc;
+    }
+    
+    h1 {
+        font-family: 'Asap', sans-serif;
+        letter-spacing: 3px;
+        font-size: 25pt;
+    }
+    
+    .hblauw {
+        color: #006699;
+        margin: 0 auto;
+        text-align: center;
+        margin-top: -35px;
+    }
+    
+    p {
+        font-family: 'Roboto', sans-serif;
+        color: #006699;
+        font-size: 12pt;
+    }
+    
+    .p1 {
+        font-family: 'Roboto', sans-serif;
+        color: #006699;
+        font-size: 12pt;
+        width: 70%;
+        text-align: center;
+        margin: 0 auto;
+        margin-top: 15px;
+    }
+    
+    .p12 {
+        font-family: 'Roboto', sans-serif;
+        color: #006699;
+        font-size: 12pt;
+        width: 70%;
+        text-align: center;
+        margin: 0 auto;
+        margin-top: -25px;
+    }
+    
+    .p2 {
+        font-family: 'Roboto', sans-serif;
+        color: #006699;
+        font-size: 12pt;
+        width: 70%;
+        text-align: center;
+        margin: 0 auto;
+        margin-top: -15px;
+    }
+    
+    body {background-color: rgb(255, 230, 230);
+        
+    }
+    
+    #map {
+        width: 100%;
+        height: 600px;
+    }
+    
+    .logo {
+        width:80%;margin:0 auto; margin-top:0px;
+     
+    }
+
+.imglogo {width:100%}
+    
+    .ftxt {
+        font-family: 'Roboto', sans-serif;
+        color: #006699;
+        font-size: 15pt;
+        margin: 0 auto;
+        text-align: center;
+        margin-top: -15px;
+    }
+    
+    .btn-secondary {
+        border-style: solid;
+        border-color: white;
+        border-width: 3px;
+        border-radius: 30px;
+        background-color: lightblue;
+        padding: 6px 12px 6px 12px;
+        font-weight: bold;
+        font-size: 9pt;
+        color: white;
+    }
+    
+    .cop {
+        width: 100%;
+        margin: 0 auto;
+    }
+    
+    .contactfr {
+        margin-top: 85px;
+    }
+    
+    .btn-secondary:hover {
+        background-color: #006699;
+        color: white;
+        border-style: solid;
+        border-color: white;
+        border-width: 3px;
+    }
+    
+    .btn:hover {
+        background-color: #006699;
+    }
+    
+    .formcontrol,
+    .fc1 {
+        border-style: solid;
+        border-color: white;
+        border-width: 3px;
+        border-radius: 30px;
+        font-size: 9pt;
+        margin-top: 20px;
+    }
+    
+    .contactf {
+        margin-top: 55px;
+    }
+    
+    input {
+        font-family: 'Roboto', sans-serif;
+        width: 150px;
+    }
+    
+    .sub {
+        margin-top: 90px;
+    }
+    
+    .input-group {
+        width: 300px;
+        margin: 0 auto;
+    }
+    
+    .navbar a {
+        color: #ff6699;
+        font-weight: bold;
+    }
+    
+    .form-control:focus {
+        border-style: solid;
+        border-color: white;
+        border-width: 3px;
+    }
+
+#myBtn {
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed/sticky position */
+    bottom: 20px; /* Place the button at the bottom of the page */
+    right: 30px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    background-color:#006699; /* Set a background color */
+    color: white; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 15px; /* Some padding */
+    border-radius: 25px; /* Rounded corners */
+    font-family: 'Asap', sans-serif;
+}
+
+#myBtn:hover {
+    background-color: lightblue; /* Add a dark-grey background on hover */
+}
+
+
+    /*schermen breder dan 420px */
+    
+    @media only screen and (min-width: 420px) {
+        .cube {
+            margin-bottom: 100px;
+        }
+        .btn2 {
+            margin-top: 45px;
+        }
+        .sub {
+            margin-top: 50px;
+        }
+      
+    }
+    /* schermen breder dan 576px */
+    
+    @media only screen and (min-width: 576px) {
+        .hblauw {
+            margin-top: -40px;
+            font-size: 18pt;
+        }
+        .p1 {
+            font-size: 9pt;
+        }
+        .fotos2 {
+            margin-top: -315px;
+            margin-bottom: -335px;
+        }
+        .cube {
+            margin-bottom: 100px;
+            padding-right: 10px;
+            padding-left: 10px;
+        }
+        .ftxt {
+            font-family: 'Roboto', sans-serif;
+            color: #006699;
+            font-size: 14pt;
+            margin-top: -5px;
+            text-align: left;
+        }
+        .btn-secondary {
+            border-style: solid;
+            border-color: white;
+            border-width: 3px;
+            border-radius: 30px;
+            background-color: lightblue;
+            padding: 8px 15px 8px 15px;
+            font-weight: bold;
+            font-size: 8pt;
+            color: white;
+        }
+        .btn-secondary:hover {
+            background-color: #006699;
+            color: white;
+            border-style: solid;
+            border-color: white;
+            border-width: 3px;
+        }
+        .form-control {
+            border-style: solid;
+            border-color: white;
+            border-width: 3px;
+            border-radius: 30px;
+            font-size: 8pt;
+            padding-left: 15px;
+            padding-right: 15px;
+        }
+        .foot1 {
+            margin-top: 65px;
+        }
+        .foot2 {
+            margin: 0 auto;
+            margin-top: 170px;
+        }
+          .head {background: url(../images/headbg.jpg)#ffff99;
+        height: 450px;
+        background-size: 1850px;
+        background-attachment: fixed;
+        margin-bottom: -160px;
+    }
+
+    .logo {
+        width:60%;margin:0 auto; margin-top:-80px;
+     
+    }
+
+.imglogo {width:100%}
+
+    }
+    /* schermen breder dan 768px */
+    
+    @media only screen and (min-width: 768px) {
+        .navbar {
+            padding-bottom: 8px;
+        }
+        .hblauw,
+        .h1ce,
+        .h1ce1 {
+            margin-top: -40px;
+            font-size: 25pt;
+        }
+        .p1,
+        .p2,
+        .p12 {
+            font-size: 15pt;
+        }
+        .fotos2 {
+            margin-top: -245px;
+            margin-bottom: -335px;
+        }
+        .cube {
+            margin-bottom: 100px;
+            padding-right: 10px;
+            padding-left: 10px;
+        }
+        .ftxt {
+            font-size: 18pt;
+        }
+        .btn-secondary {
+            border-style: solid;
+            border-color: white;
+            border-width: 3px;
+            border-radius: 30px;
+            background-color: lightblue;
+            padding: 10px 18px 10px 18px;
+            font-weight: bold;
+            font-size: 13pt;
+            color: white;
+        }
+        .form-control {
+            border-style: solid;
+            border-color: white;
+            border-width: 3px;
+            border-radius: 30px;
+            font-size: 10pt;
+            padding-left: 15px;
+            padding-right: 15px;
+        }
+        .foot2 {
+            margin: 0 auto;
+            margin-top: 170px;
+        }
+        .input-group {
+            width: 410px;
+        }
+  .logo {
+        width:50%;margin:0 auto; margin-top:-80px;
+     
+    }
+
+.imglogo {width:100%}
+      
+    }
+    /* schermen breder dan 992px */
+    
+    @media only screen and (min-width: 992px) {
+        .hblauw,
+        .h1ce,
+        .h1ce1 {
+            margin-top: -40px;
+            font-size: 30pt;
+        }
+        .fotos2 {
+            margin-top: -165px;
+            margin-bottom: -225px;
+        }
+        .cube {
+            margin-bottom: 100px;
+            padding-right: 10px;
+            padding-left: 10px;
+        }
+  .logo {
+        width:40%;margin:0 auto; margin-top:-80px;
+     
+    }
+
+.imglogo {width:100%}
+    }
+    /* schermen breder dan 1200px */
+    
+    @media only screen and (min-width: 1200px) {
+        .hblauw,
+        .h1ce,
+        .h1ce1 {
+            margin-top: -40px;
+            font-size: 30pt;
+            margin-top: 12px;
+        }
+        .fotos2 {
+            margin-top: -105px;
+            margin-bottom: -165px;
+        }
+        .cube {
+            margin-bottom: 100px;
+            padding-right: 10px;
+            padding-left: 10px;
+        }
+   .logo {
+        width:40%;margin:0 auto; margin-top:-110px;
+     
+    }
+
+.imglogo {width:100%}
+    }
+    
+
+    /* schermen breder dan 1500px */
+    
+    @media only screen and (min-width: 1500px) {
+       .logo {
+        width:30%;margin:0 auto; margin-top:-90px;
+    }
+
+    .imglogo {width:100%}
+    }
