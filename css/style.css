@@ -17,6 +17,21 @@
         width: 100%;
         height: 35px;
     }
+
+    .menublok {border-radius:45px;background-color:lightblue;height:480px;width:90%;margin:0 auto;padding-top:20px;}
+
+    .menublok1 {border-radius:45px;background-color:lightblue;height:500px;width:90%;margin:0 auto;padding-top:20px;margin-top:100px;margin-bottom:35px;}
+
+    .menucube {border-radius:35px;background-color:lightblue;height:450px;width:100%;border:solid 6px;border-color:rgb(255, 230, 230);}
+
+    .menucontainer {width:90%;margin:0 auto;margin-top:50px;}
+
+    .menufoto {width:80%;margin:0 auto;margin-top:25px;}
+
+    .pmenu {text-align: center;margin-top:10px;font-size:14px;}
+
+
+    .shake {width:80%;margin:0 auto;}
     
     .ad1 {
         background-color: pink;
@@ -24,10 +39,15 @@
         height: 400px;
         margin: 0 auto;
     }
+
+
+    .home1 {width:60%;margin:0 auto;}
     
     .home2 {
-        margin-top: 5px;
+        margin-top: 55px;width:100%;
     }
+
+  
     
     .truck {
         margin-bottom: 150px;
@@ -104,6 +124,7 @@
     }
     
     .foot2 {
+        margin-top:20px;
         margin-bottom: 35px;
         margin-left: 25px;
         margin-right: 25px;
@@ -138,6 +159,11 @@
         height: 850px;
     }
     
+        .bgcol111 {
+        background-color:lightblue;
+        height: 850px;
+    }
+
     .btncl {
         margin: 0 auto;
         width: 150px;
@@ -152,6 +178,8 @@
         font-weight: bold;
         font-size: 18pt;
     }
+
+    
     
     .btn3 {
         border-radius: 30px;
@@ -168,6 +196,17 @@
         color: #ffb3b3;
         font-size: 25pt;
     }
+
+
+    h2 { font-family: 'Asap', sans-serif;
+        letter-spacing: 3px;
+        font-size: 18pt;color: #006699;text-align: center;margin-bottom:20px;}
+
+  
+    h3 { font-family: 'Asap', sans-serif;
+        letter-spacing: 0px;
+        font-size: 14pt;color: #006699;text-align: center;width:80%;margin:0 auto;margin-top:20px;}
+
     
     .h1ce1 {
         text-align: center;
@@ -212,7 +251,7 @@
         font-size: 25pt;
     }
     
-    .hblauw {
+    .hblauw { width:90%;
         color: #006699;
         margin: 0 auto;
         text-align: center;
@@ -229,7 +268,7 @@
         font-family: 'Roboto', sans-serif;
         color: #006699;
         font-size: 12pt;
-        width: 70%;
+        width: 80%;
         text-align: center;
         margin: 0 auto;
         margin-top: 15px;
@@ -297,9 +336,6 @@
         margin: 0 auto;
     }
     
-    .contactfr {
-        margin-top: 85px;
-    }
     
     .btn-secondary:hover {
         background-color: #006699;
@@ -322,9 +358,15 @@
         font-size: 9pt;
         margin-top: 20px;
     }
+
+    .fc2 {border-style: solid;
+        border-color: white;
+        border-width: 3px;
+        border-radius: 30px;
+        font-size: 9pt;}
     
     .contactf {
-        margin-top: 55px;
+        margin-top: 95px;
     }
     
     input {
@@ -385,6 +427,14 @@
         .sub {
             margin-top: 50px;
         }
+
+
+    h3 { 
+        font-size: 12pt;}
+      
+
+   .menucube {height:545px;}
+    .menublok1 {margin-top:150px;margin-bottom:0px;height:525px;}
       
     }
     /* schermen breder dan 576px */
@@ -461,6 +511,10 @@
 
 .imglogo {width:100%}
 
+  .menucube {height:370px;}
+
+    .menublok1 {margin-top:200px;margin-bottom:0px;height:585px;}
+
     }
     /* schermen breder dan 768px */
     
@@ -488,6 +542,9 @@
             padding-right: 10px;
             padding-left: 10px;
         }
+
+
+
         .ftxt {
             font-size: 18pt;
         }
@@ -524,7 +581,16 @@
     }
 
 .imglogo {width:100%}
-      
+
+   .menublok {height:550px;}
+
+       h3 { 
+        font-size: 14pt;}
+
+          .menucube {height:390px;}
+
+ .menublok1 {margin-top:200px;margin-bottom:0px;height:685px;}
+
     }
     /* schermen breder dan 992px */
     
@@ -532,7 +598,7 @@
         .hblauw,
         .h1ce,
         .h1ce1 {
-            margin-top: -40px;
+            margin-top: -20px;
             font-size: 30pt;
         }
         .fotos2 {
@@ -550,6 +616,13 @@
     }
 
 .imglogo {width:100%}
+
+.menublok {height:680px;}
+
+.menucube {height:410px;}
+
+.menublok1 {margin-top:200px;margin-bottom:0px;height:775px;}
+
     }
     /* schermen breder dan 1200px */
     
@@ -575,7 +648,16 @@
      
     }
 
+    .home2 {margin-top:25px;}
+
 .imglogo {width:100%}
+
+ .menublok {height:750px;}
+
+.menucube {height:430px;}
+
+.menublok1 {margin-top:200px;margin-bottom:0px;height:910px;}
+
     }
     
 
@@ -587,4 +669,11 @@
     }
 
     .imglogo {width:100%}
+
+.menublok1 {margin-top:200px;margin-bottom:0px;height:1060px;}
+
+
     }
+
+
+    
