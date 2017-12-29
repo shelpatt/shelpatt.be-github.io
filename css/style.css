@@ -1,3 +1,10 @@
+.pics {width:200px;}
+.fa {margin-right:5px;margin-left:5px;}
+    .fa-facebook-square {color:#006699;}
+    .fa-instagram {color:#ff6699;}
+    .fa-twitter-square {color:lightskyblue;}
+  
+
 .cube {
     width: 100%;
     height: 400px;
@@ -471,6 +478,7 @@ input {
 }
 
 #myBtn:hover {
+    
     background-color: lightblue;
     /* Add a dark-grey background on hover */
 }
@@ -539,6 +547,10 @@ input {
         font-size: 8pt;
         color: white;
     }
+
+   
+
+
     .btn-secondary:hover {
         background-color: #006699;
         color: white;
